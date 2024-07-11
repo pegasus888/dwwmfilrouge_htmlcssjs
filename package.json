@@ -1,0 +1,16 @@
+{
+  "name": "dwwmfilrouge",
+  "version": "1.0.0",
+  "description": "Afpa project \"Fil Rouge\": DWWM Blog",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/custom.scss:./css/custom.css --style compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "jquery": "^3.7.1"
+  }
+}
